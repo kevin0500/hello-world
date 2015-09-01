@@ -28,6 +28,8 @@ public class DoubleTest {
 		String str2 = "2.0";
 		String str3 = "2.00";
 		
+		System.out.println("123456789");
+		
 	}
 }
 
