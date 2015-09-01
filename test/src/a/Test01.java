@@ -16,6 +16,8 @@ public class Test01 {
 //		System.getenv().get("Username");
 		System.getProperty("catalina.home");
 		
+		System.out.println("fdafaffsd");
+		
 	}
 	
 	public static String format(Date date, String pattern) {
